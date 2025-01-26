@@ -47,3 +47,6 @@ Para ejecutar el sistema, debes poner:
 
 <h4> Juntar dos ramas </h4>
   ``` git merge + nombreRama```
+
+<h4> Actualizar las dos ramas </h4>
+  ``` git push origin main```
