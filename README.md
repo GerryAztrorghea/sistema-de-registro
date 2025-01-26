@@ -45,4 +45,5 @@ Para ejecutar el sistema, debes poner:
   <h5> Mandar o subir al repositorio con otra rama</h5>
     ``` git push origin + nombreRama```
 
-  
+<h4> Juntar dos ramas </h4>
+  ``` git merge + nombreRama```
