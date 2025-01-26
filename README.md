@@ -50,3 +50,12 @@ Para ejecutar el sistema, debes poner:
 
 <h4> Actualizar las dos ramas </h4>
   ``` git push origin main```
+
+<h3>Nuevo repositorio </h3>
+  <p> Comandos </p>
+
+  ```git init ``` Inicio de repositorio
+  ```git add README.md``` agregar el archivo readme
+  ```git remote add origin + url``` conexion entre la pc y github
+  ```git branch -M main``` cambiar el nombre de la ramma en main 
+  ```git push -u origin main``` hace cambiar a la rama principal
