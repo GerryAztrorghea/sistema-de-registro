@@ -42,3 +42,7 @@ Para ejecutar el sistema, debes poner:
   <h5> Mover a la rama </h5>
     ```git switch + nombre de rama```
 
+  <h5> Mandar o subir al repositorio con otra rama</h5>
+    ``` git push origin + nombreRama```
+
+  
