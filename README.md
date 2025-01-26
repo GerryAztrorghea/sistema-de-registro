@@ -26,3 +26,10 @@ Para ejecutar el sistema, debes poner:
 
 <h4> Enviar al repositorio remoto</h4>
   ```git push```
+
+<h4> Ver los cambios que se han realizado dentro de git y github </h4>
+   ``` git diff + nombreArchivo ``` muestra los cambios 
+
+<h4> Mover a versiones anterior</h4>
+    ``` git restore --source + hash + nombreArchivo``` la version anterior muestra 
+
