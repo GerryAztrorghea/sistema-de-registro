@@ -33,3 +33,12 @@ Para ejecutar el sistema, debes poner:
 <h4> Mover a versiones anterior</h4>
     ``` git restore --source + hash + nombreArchivo``` la version anterior muestra 
 
+<h4> Muestra las ramas que tiene el proyecto</h4>
+    ``` git branch```
+
+  <h5> Creacion de una rama</h5>
+    ```git checkout -b desarrollo``` creacion de la rama 
+
+  <h5> Mover a la rama </h5>
+    ```git switch + nombre de rama```
+
